@@ -17,6 +17,7 @@ Curated by [César Hurtado](https://hurtadovibes3.gumroad.com/), this publicatio
 - Frequency: Weekly  
 - Distribution: Public & Collectible  
 - License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- GitHub preview is static. For full interactive navigation, download the PDF.
 
 ---
 
